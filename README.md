@@ -1,4 +1,4 @@
-This is a movie recommendation website developed using React and Tailwind. The movie database used is TMDB and firebase is used for user authentication.
+This is a movie recommendation website developed using React and Tailwind. The movie database used is TMDB and firebase is used for user authentication. Also Chat-GPT search feature is integrated for searching movies.
 
 
 # Getting Started with Create React App
